@@ -109,7 +109,8 @@
       "BuyerAgentName": "Unknown",
       "Funding": "test Funding",
       "ClosingPeriod": "Mar 9 2021",
-      "OfferPrice": "600"
+      "OfferPrice": "600",
+      "WireInfo": "This is the instructions for wiring"
     }
   ]
 }
